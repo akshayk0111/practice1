@@ -11,7 +11,7 @@ public class Account1 {
 		System.out.println("I am in parameterized constructor");
 	}
 
-	void display() {
+	void display() {//display all
 		System.out.println("Acc.No : " + accountNumber + " Name: " + customerName);
 	}
 
